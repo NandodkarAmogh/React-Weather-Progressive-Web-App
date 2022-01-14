@@ -27,8 +27,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/NandodkarAmogh/React-Weather-Progressive-Web-App](https://github.com/NandodkarAmogh/React-Weather-Progressive-Web-App)
+- Live Site URL: [https://react-weatherpwa.netlify.app/](https://react-weatherpwa.netlify.app/)
 
 ## My process
 
@@ -86,8 +86,7 @@ self.addEventListener('activate', (event) => {
 ```
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Github - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Github - [@NandodkarAmogh](https://github.com/NandodkarAmogh)
 
 
 
