@@ -39,7 +39,7 @@
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Open Weather Map API](https://openweathermap.org/api) - Weather API
-- [Styled Components](https://styled-components.com/) - For styles
+- [Material UI](https://mui.com/) - For styles
 ### What I learned
 
 This project helped me in revising some of the core react concepts as well as helped me to learn to build a PWA app. I learned to use React JS with service workers and to build and deploy a PWA app
