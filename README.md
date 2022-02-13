@@ -3,6 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
+  - [Demo](#demo)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -14,6 +15,8 @@
 
 ## Overview
 
+### Demo
+![](./src/images/demo.gif)
 ### Screenshot
 
 ![](./src/images/img_one.png)
